@@ -29,7 +29,7 @@
 
 <img align="center" width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan-M-Wilson&count_private=true&theme=merko" alt="Jonathan's GitHub Stats" />
 
-<img align="center" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-M-Wilson&count_private=true&theme=merko" alt="Jonathan's GitHub Stats" />
+<img align="center" width=605 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-M-Wilson&count_private=true&theme=merko" alt="Jonathan's GitHub Stats" />
 
 ----
 Credit: [Jonathan-M-Wilson](https://github.com/Jonathan-M-Wilson)
