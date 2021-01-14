@@ -1,12 +1,9 @@
-<h3 title="main-title", style="color:mintcream"> Hey 👋, I'm Jonathan!</h3>
+<h3 title="main-title", style="color:mediumaquamarine"> Hey 👋, I'm Jonathan!</h3>
 
 <span style="color:silver">Backend Software Engineer</span><br />
 <span style="color:silver">*New Technology Enthusiast* 🚀.</span><br />
 
-
-<a href="www.linkedin.com/in/jonathan--wilson">
-  <img align="left" alt="Jonathan's LinkedIn" width="84px" src=" https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555" />
-</a>
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/jonathan--wilson/)
 
 <br />
 <br />
@@ -14,7 +11,7 @@
   <img align="center" alt="GIF" width="400px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 #####  <span style="color:silver">About Me:</span><br />
-<span style="color:mintcream">
+<span style="color:mediumaquamarine">
 
 - 👨🏻‍💻 Studying back-end engineering at [Turing School of Software and Design](https://turing.io/)
 
@@ -38,3 +35,6 @@
 Credit: [Jonathan-M-Wilson](https://github.com/Jonathan-M-Wilson)
 
 Last Edited on: 01/14/2021
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
