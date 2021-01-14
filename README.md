@@ -21,10 +21,12 @@
 - 📫 Email me at [jonathanmorrillwilson@gmail.com](mailto:jonathanmorrillwilson@gmail.com).
 </span>
 
-Technology Interests: | Non-Technology Interests:
+**Technology Interests:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| **Non-Technology Interests:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ------------ | -------------
 <li>Backend Development<li>Machine Learning<li>Blockchain |  <li>Traveling 🛩️  <li>Guitar 🎸 <li>Reading 📖
+
 ***Github Stats:*** | ***Contributions / Current Streak:***
+------------ | -------------
 <img align="center" width=525 src="https://github-readme-stats.vercel.app/api?username=Jonathan-M-Wilson&hide=stars&show_icons=true&count_private=true&theme=tokyonight" alt="Jonathan's GitHub Stats" /> | <img align="center" width=455 src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan-M-Wilson&count_private=true&theme=merko" alt="Jonathan's GitHub Stats" />
 
 
