@@ -5,11 +5,11 @@
 
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/jonathan--wilson/)
 <br />
-<br />
 
-<img align="right" alt="GIF" width="350px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+------
+<img align="right" alt="GIF" width="325px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-#####  <span style="color:silver">About Me:</span><br />
+###  <span style="color:silver">About Me:</span><br />
 <span style="color:mediumaquamarine">
 
 - 👨🏻‍💻 Studying back-end engineering at [Turing School of Software and Design](https://turing.io/)
