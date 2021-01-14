@@ -25,9 +25,11 @@
 - 📫 Email me at [jonathanmorrillwilson@gmail.com](mailto:jonathanmorrillwilson@gmail.com).
 </span>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jonathan-M-Wilson&show_icons=true&count_private=true&theme=tokyonight" alt="Jonathan's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan-M-Wilson&count_private=true&theme=merko" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-M-Wilson&count_private=true&theme=merko" alt="Jas-Script" />
+<img align="center" width=300 src="https://github-readme-stats.vercel.app/api?username=Jonathan-M-Wilson&show_icons=true&count_private=true&theme=tokyonight" alt="Jonathan's GitHub Stats" />
+
+<img align="center" width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan-M-Wilson&count_private=true&theme=merko" alt="Jonathan's GitHub Stats" />
+
+<img align="center" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-M-Wilson&count_private=true&theme=merko" alt="Jonathan's GitHub Stats" />
 
 ----
 Credit: [Jonathan-M-Wilson](https://github.com/Jonathan-M-Wilson)
