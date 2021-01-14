@@ -5,8 +5,9 @@
 
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/jonathan--wilson/)
 <br />
+<br />
 
-  <img align="right" alt="GIF" width="350px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" width="350px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 #####  <span style="color:silver">About Me:</span><br />
 <span style="color:mediumaquamarine">
@@ -25,7 +26,7 @@
 - 📫 Email me at [jonathanmorrillwilson@gmail.com](mailto:jonathanmorrillwilson@gmail.com).
 </span>
 
-<img align="center" width=425 src="https://github-readme-stats.vercel.app/api?username=Jonathan-M-Wilson&show_icons=true&count_private=true&theme=tokyonight" alt="Jonathan's GitHub Stats" /> | <img align="center" width=425 src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan-M-Wilson&count_private=true&theme=merko" alt="Jonathan's GitHub Stats" />
+<img align="center" width=525 src="https://github-readme-stats.vercel.app/api?username=Jonathan-M-Wilson&show_icons=true&count_private=true&theme=tokyonight" alt="Jonathan's GitHub Stats" /> | <img align="center" width=525 src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan-M-Wilson&count_private=true&theme=merko" alt="Jonathan's GitHub Stats" />
 ------------ | -------------
 
 ----
