@@ -16,18 +16,17 @@
 
 - 🌱 Exploring Elixir and Python
 
-- 🤔 Interests:
-  - Tech: Backend Dev, ML, Blockchain, New Technology
-  - Non-Tech: Traveling 🛩️&nbsp; , Guitar 🎸&nbsp; , Reading 📖
-
-
 - 💬 Ask me about anything, I'd love to hear from you!
 
 - 📫 Email me at [jonathanmorrillwilson@gmail.com](mailto:jonathanmorrillwilson@gmail.com).
 </span>
 
-<img align="center" width=525 src="https://github-readme-stats.vercel.app/api?username=Jonathan-M-Wilson&show_icons=true&count_private=true&theme=tokyonight" alt="Jonathan's GitHub Stats" /> | <img align="center" width=525 src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan-M-Wilson&count_private=true&theme=merko" alt="Jonathan's GitHub Stats" />
+Technology Interests: | Non-Technology Interests:
 ------------ | -------------
+<li>Backend Development<li>Machine Learning<li>Blockchain|  <li>Traveling 🛩️  <li>Guitar 🎸 <li>Reading 📖
+***Github Stats:*** | ***Contributions / Current Streak:***
+<img align="center" width=525 src="https://github-readme-stats.vercel.app/api?username=Jonathan-M-Wilson&hide=stars&show_icons=true&count_private=true&theme=tokyonight" alt="Jonathan's GitHub Stats" /> | <img align="center" width=455 src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan-M-Wilson&count_private=true&theme=merko" alt="Jonathan's GitHub Stats" />
+
 
 ----
 Credit: [Jonathan-M-Wilson](https://github.com/Jonathan-M-Wilson)
