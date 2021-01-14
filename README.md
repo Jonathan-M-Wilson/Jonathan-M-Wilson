@@ -18,7 +18,7 @@
 
 - 🤔 Interests:
   - Tech: Backend Development, Machine Learning, Blockchain, New Technology
-  - Non-Tech: Traveling 🛩️, Guitar 🎸, Reading 📖
+  - Non-Tech: Traveling 🛩️ , Guitar 🎸 , Reading 📖
 
 
 - 💬 Ask me about anything, I'd love to hear from you!
