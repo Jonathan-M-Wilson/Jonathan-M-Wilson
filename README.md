@@ -19,7 +19,7 @@
 - 💬 &nbsp; Ask me about anything, I'd love to hear from you!
 
 - 📫 &nbsp; Email me at [jonathanmorrillwilson@gmail.com](mailto:jonathanmorrillwilson@gmail.com)
-</span><br />
+</span><br /><br />
 
 
 | **Technology Interests:**   |      **Non-Technology Interests:**      |
