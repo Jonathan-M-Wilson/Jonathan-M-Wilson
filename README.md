@@ -2,6 +2,7 @@
 
 <span style="color:silver">Backend Software Engineer</span><br />
 <span style="color:silver">*New Technology Enthusiast* 🚀.</span><br />
+<span style="color:silver">*Video Game Aficionadoo* 🚀.</span><br />
 
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/jonathan--wilson/)
 <br />
