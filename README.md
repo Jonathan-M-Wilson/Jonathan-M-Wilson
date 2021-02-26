@@ -15,7 +15,7 @@
 
 - 👨🏻‍💻 &nbsp; Studying back-end engineering at [Turing School of Software and Design](https://turing.io/)
 
-- 🌱 &nbsp; Exploring Elixir and Python
+- 🌱 &nbsp; Exploring Python 
 
 - 💬 &nbsp; Ask me about anything, I'd love to hear from you!
 
