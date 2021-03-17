@@ -13,9 +13,9 @@
 ###  <span style="color:silver">***About Me***:</span><br />
 <span style="color:mediumaquamarine">
 
-- 👨🏻‍💻 &nbsp; Studying back-end engineering at [Turing School of Software and Design](https://turing.io/)
+- 👨🏻‍💻 &nbsp; Studied back-end engineering at [Turing School of Software and Design](https://turing.io/)
 
-- 🌱 &nbsp; Exploring Python 
+- 🌱 &nbsp; Exploring Python / Django, Deluge
 
 - 💬 &nbsp; Ask me about anything, I'd love to hear from you!
 
@@ -33,7 +33,7 @@
 ----
 Credit: [Jonathan-M-Wilson](https://github.com/Jonathan-M-Wilson)
 
-Last Edited on: 01/14/2021
+Last Edited on: 03/17/2021
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
